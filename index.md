@@ -20,7 +20,7 @@ I'm a Postdoctoral Researcher in [Annalise Paaby](http://genaamics.org)'s lab in
 
 ## Employment
 
-`2016-` 
+`2016-present` 
 __Georgia Tech__ Postdoctoral Researcher
 
 ## Education
