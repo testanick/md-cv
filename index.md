@@ -1,168 +1,196 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Nick Testa's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Nicholas D. Testa
+Postdoc with dual PhD in Integrative Biology and Ecology and Evolutionary Biology and Behavior
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:ntesta3@gatech.edu">ntesta3@gatech.edu</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/testanick">testanick</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/Testa_ND">Testa_ND</a>
 </div>
 
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a Postdoctoral Researcher in [Annalise Paaby](http://genaamics.org)'s lab in [Georgia Tech](http://www.gatech.edu/)'s Biological Sciences department. Here I am trying to elicudate the mechanisms that allow the mechanisms of stable phenotypes to drift over evolutionary time (a.k.a. I study developmental system drift).
 
 ## Employment
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`2016-` 
+__Georgia Tech__ Postdoctoral Researcher
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2010-16`
+__Michigan State University__ Dual PhD in Integrative Biology and Ecology and Evolutionary Biology and Behavior (supervisors: Ian Dworkin and Alex Shingleton)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
-
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
-
-## Presentations
-
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
-
-### Talks
-
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
-
+`2005-10`
+__University of Pittsburgh__ BA in Anthropology (_Distinction_)
 
 ## Publications
 
 <!-- ### Journals -->
-`2017`
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
-
 `2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
+__Testa, N. D.__ & Dworkin, I. (2016). The sex-limited effects of mutations in the EGFR and TGF-β signaling pathways on shape and size sexual dimorphism and allometry in the Drosophila wing. Dev. Genes Evol. 
 
 `2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
+Weigel, E. G.*, __Testa, N. D.*__, Peer, A., & Garnett, S. C. (2015). Context matters: sexual signaling loss in digital organisms. Ecology and Evolution, n/a–n/a.
 
 `2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
+__Testa, N.__, Ghosh, S., & Shingleton, A. (2013). Sex-Specific Weight Loss Mediates Sexual Size Dimorphism in Drosophila melanogaster. PLoS ONE, 8(3), e58936.
+
+Ghosh S., __Testa N.__, Shingleton A. (2013) Temperature-size rule is mediated by thermal plasticity of critical size in Drosophila melanogaster. Proc R Soc B 280: 20130174.
+
+## Conference Presentations
+
+Testa, N (May, 2014). The Effects of Sex and Genetic Background on Sexual Size Dimorphism (SSD) and Sexual Shape Dimorphism (SShD) of Drosophila Wings. Talk, ForBio Course on Geometric Morphometrics (University of Tromsø, Norway). 
+
+Testa, N (April, 2013). Keeping Males and Females the Right Size: The Developmental Basis of Sexual Size Dimorphism. Talk, EEBB Colloquium Series.  
+
+Testa, N., Ghosh-Modak, S., and A. Shingleton (July, 2012). Targets of Selection for Sexual Size Dimorphism in Drosophila. Talk, 2012 Society for the Study of Evolution Conference. 
+
+Testa, N., Ghosh-Modak, S., and A. Shingleton. (March, 2012). Keeping males and females the right size: A closer look at the mechanisms behind sexual size dimorphism. Poster presentation, 2012 Drosophila Research Conference. 
+
+Ghosh-Modak, S., Testa, N., and A. Shingleton. (March 2012). Critical Size Regulates Thermal Plasticity of Body Size in Drosophila. Poster presentation, 2012 Drosophila Research Conference.  
+
+## Press/Public Communications
+
+Press release about co-first authored paper, Loss of Species’ Sex Signals May Lead to Extinction. http://research.msu.edu/loss-of-species-sex-signals-may-lead-to-extinction/ 
+
+My blog article on Understanding how males and females grow apart in BEACON news. http://beacon-center.org/blog/2014/06/09/beacon-researchers-at-work-understanding-how-males-and-females-grow-apart/ 
+
+## Funding Awards
+
+`2016`
+_Dissertation Continuation Fellowship_ (MSU) -- $1,800
+
+`2015`
+_EEBB Summer Travel Fellowship_ (MSU) -- $500
+
+`2014`
+_EEBB Travel Fellowship_ (MSU) -- $500
+
+_BEACON Travel Fellowship_ (MSU) -- $400
+
+`2013`
+_EEBB Summer Fellowship_ (MSU) -- $1,800
+
+`2012`
+_Shaver Fellowship Award_ (MSU) -- $1,400
+
+_EEBB Travel Fellowship_ (MSU) -- $400
 
 `2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
+_EEBB Summer Fellowship_ (MSU) -- $1,800
 
-## Non-academic
+## Teaching Experience
+### Undergraduate Mentoring
+I have been fortunate enough to work with many extremely talented undergraduate students in different capacities that range from basic animal husbandry training to performing core projects in the lab. 
+### Teaching Courses
+`2016 spring`     
+Lab Coordinator/ Teaching Assistant and Lecture Consultant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+`2015 fall`          
+Teaching Assistant for ZOL408 – Histology  
 
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+`2015 summer`  
+Teaching Assistant for ZOL445 – Evolution (online) 
 
-## Technical skills
+`2015 spring`     
+Lab Coordinator/ Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-* R
-* Statistics
-* LaTeX
-* Git / Mercurial
-* UNIX
-* Python
-* Machine learning
-* Bash
-* Emacs
-* Inkscape
-* Data visualisation
-* Mediawiki
-* Cluster computing
-* HTML and CSS
-* Javascript
+`2014 spring`     
+Lab Coordinator/ Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-## Projects
+`2013 fall`          
+Teaching Assistant for ZOL320 – Developmental Biology of Vertebrates      
 
-### blog
+`2013 spring`
+Lab Coordinator/ Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
+`2012 fall`          
+Teaching Assistant for ZOL320 – Developmental Biology of Vertebrates 
 
-### EdinbR
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+`2012 spring`     
+Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-### datarea
+`2011 fall`          
+Teaching Assistant for ZOL320 – Developmental Biology of Vertebrates 
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+`2011 spring`     
+Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-## Awards
+`2010 fall`          
+Teaching Assistant for BS110 – Intro Bio: Organism and Population 
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+## Service
+`2014 Fall – 2015 Spring`        
+Zoology EvoDevo Faculty Search Committee 
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
+`2013 Fall – 2014 Fall`           
+EEBB Seminar Helper 
 
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+`2012 Fall – 2013 Spring`       
+Graduate Affairs Committee 
 
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
+## Current Research Collaborations
+Samiksha Kaul, Annalise Paaby. Molecular evolution of par-gene network both within species (Caenorhabditis elegans) and across species (within the Caenorhabditis genus). Manuscript in early stages of preparation. 
 
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
+Weipeng Zhuo. Development of precision temperature controlling device for biological samples that is compatible with standard stereoscope configurations. Methods paper expected.   
 
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
+Shampa Ghosh, Alexander Shingleton and Will Pitchers. Genome Wide Association Study (GWAS) of genes associated with thermal plasticity and sexual size dimorphism in Drosophila melanogaster. Manuscript to be submitted soon. 
 
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+## Professional and Laboratory Skills
+### Professional
+* Unix shell (BASH)
+* R statistical software
+* R-shiny applications
+* complex statistical modeling
+* geometric morphometrics (analysis of shape)
+* Genome-Wide Association Studies
+* big data analysis
+* cloud computing
+* Arduino coding (C++) and circuit design
+* Phylogenetic Analysis by Maximum Likelihood (PAML)
+* Molecular Evolutionary Genetics Analysis (MEGA5) software
+* Avida artificial life platform
+* website development (HTML)  
+### Laboratory
+* Advanced genetic crossing/manipulation
+* macro and micro dissection
+* DIC and confocal microscopy techniques
+* DNA extraction and cloning
+* PCR and associated primer development
+* in situ hybridization
+* Immunohistochemistry
+* Primer Development
+* Drosophila husbandry
+* C. elegans husbandry
+* Husbandry of non-model (Caenorhabditid) organisms
+* Chick embryo explantation and fate mapping
+* Chick embryo basic developmental manipulation 
 
-## Placements
+## Research Experience
+### Postdoctoral Research:  
+Department of Biological Sciences, Georgia Institute of Technology, 2016-present (research advisor: Annalise Paaby) 
+* Elucidating the genetic mechanisms of Developmental System Drift (in Caenorhabditid nematodes). 
+### Graduate Research:     
+Department of Zoology, Michigan State University, 2013-2016 (research advisor: Ian Dworkin) 
+* Developmental and molecular genetic regulation of sexual size and shape dimorphism of wings in Drosophila melanogaster (from an evo-devo perspective). 
+### Graduate Research:     
+Department of Zoology, Michigan State University, 2010-2016 (research advisor: Dr. Alex Shingleton) 
+* Developmental and molecular genetic regulation of sexual size dimorphism in Drosophila melanogaster (from an evo-devo perspective). 
+* Developmental regulation of thermal plasticity of body size in Drosophila melanogaster 
+* Coordinated growth of organs during development in Drosophila melanogaster.  
+### Undergraduate:           
+Department of Anthropology, University of Pittsburgh, 2009-2010 (research advisors: Dr. Jeffrey Schwartz and Dr. Michael Siegel) 
+* Investigation of the human fossil record (Europe) via high resolution photographs; Interpreted perceived trends in morphology. 
+* Lab Assistant in study of cranial synostosis in rabbits. 
 
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
-
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
-
-## References
-
-Available on request.
 
 <!-- ### Footer
 
