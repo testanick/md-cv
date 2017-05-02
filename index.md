@@ -35,31 +35,31 @@ __University of Pittsburgh__ BA in Anthropology (_Distinction_)
 
 <!-- ### Journals -->
 
-__Testa, N. D.__ & Dworkin, I. (2016). The sex-limited effects of mutations in the EGFR and TGF-β signaling pathways on shape and size sexual dimorphism and allometry in the Drosophila wing. Dev. Genes Evol. 
+* __Testa, N. D.__ & Dworkin, I. (2016). The sex-limited effects of mutations in the EGFR and TGF-β signaling pathways on shape and size sexual dimorphism and allometry in the Drosophila wing. Dev. Genes Evol. 
 
-Weigel, E. G.*, __Testa, N. D.*__, Peer, A., & Garnett, S. C. (2015). Context matters: sexual signaling loss in digital organisms. Ecology and Evolution, n/a–n/a.
+* Weigel, E. G.*, __Testa, N. D.*__, Peer, A., & Garnett, S. C. (2015). Context matters: sexual signaling loss in digital organisms. Ecology and Evolution, n/a–n/a.
 
-__Testa, N.__, Ghosh, S., & Shingleton, A. (2013). Sex-Specific Weight Loss Mediates Sexual Size Dimorphism in Drosophila melanogaster. PLoS ONE, 8(3), e58936.
+* __Testa, N.__, Ghosh, S., & Shingleton, A. (2013). Sex-Specific Weight Loss Mediates Sexual Size Dimorphism in Drosophila melanogaster. PLoS ONE, 8(3), e58936.
 
-Ghosh S., __Testa N.__, Shingleton A. (2013) Temperature-size rule is mediated by thermal plasticity of critical size in Drosophila melanogaster. Proc R Soc B 280: 20130174.
+* Ghosh S., __Testa N.__, Shingleton A. (2013) Temperature-size rule is mediated by thermal plasticity of critical size in Drosophila melanogaster. Proc R Soc B 280: 20130174.
 
 ## Conference Presentations
 
-Testa, N (May, 2014). The Effects of Sex and Genetic Background on Sexual Size Dimorphism (SSD) and Sexual Shape Dimorphism (SShD) of Drosophila Wings. Talk, ForBio Course on Geometric Morphometrics (University of Tromsø, Norway). 
+* Testa, N (May, 2014). The Effects of Sex and Genetic Background on Sexual Size Dimorphism (SSD) and Sexual Shape Dimorphism (SShD) of Drosophila Wings. Talk, ForBio Course on Geometric Morphometrics (University of Tromsø, Norway). 
 
-Testa, N (April, 2013). Keeping Males and Females the Right Size: The Developmental Basis of Sexual Size Dimorphism. Talk, EEBB Colloquium Series.  
+* Testa, N (April, 2013). Keeping Males and Females the Right Size: The Developmental Basis of Sexual Size Dimorphism. Talk, EEBB Colloquium Series.  
 
-Testa, N., Ghosh-Modak, S., and A. Shingleton (July, 2012). Targets of Selection for Sexual Size Dimorphism in Drosophila. Talk, 2012 Society for the Study of Evolution Conference. 
+* Testa, N., Ghosh-Modak, S., and A. Shingleton (July, 2012). Targets of Selection for Sexual Size Dimorphism in Drosophila. Talk, 2012 Society for the Study of Evolution Conference. 
 
-Testa, N., Ghosh-Modak, S., and A. Shingleton. (March, 2012). Keeping males and females the right size: A closer look at the mechanisms behind sexual size dimorphism. Poster presentation, 2012 Drosophila Research Conference. 
+* Testa, N., Ghosh-Modak, S., and A. Shingleton. (March, 2012). Keeping males and females the right size: A closer look at the mechanisms behind sexual size dimorphism. Poster presentation, 2012 Drosophila Research Conference. 
 
-Ghosh-Modak, S., Testa, N., and A. Shingleton. (March 2012). Critical Size Regulates Thermal Plasticity of Body Size in Drosophila. Poster presentation, 2012 Drosophila Research Conference.  
+* Ghosh-Modak, S., Testa, N., and A. Shingleton. (March 2012). Critical Size Regulates Thermal Plasticity of Body Size in Drosophila. Poster presentation, 2012 Drosophila Research Conference.  
 
 ## Press/Public Communications
 
-Press release about co-first authored paper, Loss of Species’ Sex Signals May Lead to Extinction. http://research.msu.edu/loss-of-species-sex-signals-may-lead-to-extinction/ 
+* Press release about co-first authored paper, Loss of Species’ Sex Signals May Lead to Extinction. http://research.msu.edu/loss-of-species-sex-signals-may-lead-to-extinction/ 
 
-My blog article on Understanding how males and females grow apart in BEACON news. http://beacon-center.org/blog/2014/06/09/beacon-researchers-at-work-understanding-how-males-and-females-grow-apart/ 
+* My blog article on Understanding how males and females grow apart in BEACON news. http://beacon-center.org/blog/2014/06/09/beacon-researchers-at-work-understanding-how-males-and-females-grow-apart/ 
 
 ## Funding Awards
 
@@ -137,11 +137,11 @@ EEBB Seminar Helper
 Graduate Affairs Committee 
 
 ## Current Research Collaborations
-Samiksha Kaul, Annalise Paaby. Molecular evolution of par-gene network both within species (Caenorhabditis elegans) and across species (within the Caenorhabditis genus). Manuscript in early stages of preparation. 
+* Samiksha Kaul, Annalise Paaby. Molecular evolution of par-gene network both within species (Caenorhabditis elegans) and across species (within the Caenorhabditis genus). Manuscript in early stages of preparation. 
 
-Weipeng Zhuo. Development of precision temperature controlling device for biological samples that is compatible with standard stereoscope configurations. Methods paper expected.   
+* Weipeng Zhuo. Development of precision temperature controlling device for biological samples that is compatible with standard stereoscope configurations. Methods paper expected.   
 
-Shampa Ghosh, Alexander Shingleton and Will Pitchers. Genome Wide Association Study (GWAS) of genes associated with thermal plasticity and sexual size dimorphism in Drosophila melanogaster. Manuscript to be submitted soon. 
+* Shampa Ghosh, Alexander Shingleton and Will Pitchers. Genome Wide Association Study (GWAS) of genes associated with thermal plasticity and sexual size dimorphism in Drosophila melanogaster. Manuscript to be submitted soon. 
 
 ## Professional and Laboratory Skills
 ### Professional
@@ -157,7 +157,7 @@ Shampa Ghosh, Alexander Shingleton and Will Pitchers. Genome Wide Association St
 * Phylogenetic Analysis by Maximum Likelihood (PAML)
 * Molecular Evolutionary Genetics Analysis (MEGA5) software
 * Avida artificial life platform
-* website development (HTML)  
+* website development (HTML, markdown)  
 ### Laboratory
 * Advanced genetic crossing/manipulation
 * macro and micro dissection
