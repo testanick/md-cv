@@ -34,13 +34,11 @@ __University of Pittsburgh__ BA in Anthropology (_Distinction_)
 ## Publications
 
 <!-- ### Journals -->
-`2016`
+
 __Testa, N. D.__ & Dworkin, I. (2016). The sex-limited effects of mutations in the EGFR and TGF-β signaling pathways on shape and size sexual dimorphism and allometry in the Drosophila wing. Dev. Genes Evol. 
 
-`2015`
 Weigel, E. G.*, __Testa, N. D.*__, Peer, A., & Garnett, S. C. (2015). Context matters: sexual signaling loss in digital organisms. Ecology and Evolution, n/a–n/a.
 
-`2013`
 __Testa, N.__, Ghosh, S., & Shingleton, A. (2013). Sex-Specific Weight Loss Mediates Sexual Size Dimorphism in Drosophila melanogaster. PLoS ONE, 8(3), e58936.
 
 Ghosh S., __Testa N.__, Shingleton A. (2013) Temperature-size rule is mediated by thermal plasticity of critical size in Drosophila melanogaster. Proc R Soc B 280: 20130174.
