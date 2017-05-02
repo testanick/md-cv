@@ -20,7 +20,7 @@ I'm a Postdoctoral Researcher in [Annalise Paaby](http://genaamics.org)'s lab in
 
 ## Employment
 
-`2016-present` 
+`2016-present`
 __Georgia Tech__ Postdoctoral Researcher
 
 ## Education
@@ -88,51 +88,52 @@ _EEBB Summer Fellowship_ (MSU) -- $1,800
 ## Teaching Experience
 ### Undergraduate Mentoring
 I have been fortunate enough to work with many extremely talented undergraduate students in different capacities that range from basic animal husbandry training to performing core projects in the lab. 
+
 ### Teaching Courses
-`2016 spring`     
+`2016 spring`
 Lab Coordinator/ Teaching Assistant and Lecture Consultant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-`2015 fall`          
+`2015 fall`
 Teaching Assistant for ZOL408 – Histology  
 
-`2015 summer`  
+`2015 summer`
 Teaching Assistant for ZOL445 – Evolution (online) 
 
-`2015 spring`     
+`2015 spring`
 Lab Coordinator/ Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-`2014 spring`     
+`2014 spring`
 Lab Coordinator/ Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-`2013 fall`          
+`2013 fall`
 Teaching Assistant for ZOL320 – Developmental Biology of Vertebrates      
 
 `2013 spring`
 Lab Coordinator/ Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-`2012 fall`          
+`2012 fall`
 Teaching Assistant for ZOL320 – Developmental Biology of Vertebrates 
 
-`2012 spring`     
+`2012 spring`
 Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-`2011 fall`          
+`2011 fall`
 Teaching Assistant for ZOL320 – Developmental Biology of Vertebrates 
 
-`2011 spring`     
+`2011 spring`
 Teaching Assistant for ZOL328 – Comparative Anatomy of Vertebrates 
 
-`2010 fall`          
+`2010 fall`
 Teaching Assistant for BS110 – Intro Bio: Organism and Population 
 
 ## Service
-`2014 Fall – 2015 Spring`        
+`2014 Fall – 2015 Spring`
 Zoology EvoDevo Faculty Search Committee 
 
-`2013 Fall – 2014 Fall`           
+`2013 Fall – 2014 Fall`
 EEBB Seminar Helper 
 
-`2012 Fall – 2013 Spring`       
+`2012 Fall – 2013 Spring`
 Graduate Affairs Committee 
 
 ## Current Research Collaborations
